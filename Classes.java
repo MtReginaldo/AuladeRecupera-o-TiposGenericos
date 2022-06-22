@@ -1,13 +1,13 @@
 public class Caixa{ 
     
     public int caixa;
-    public Caixa(String d) { caixa = c; }
+    public Caixa(String d) {caixa = c;}
     
-    public String getDado() { return; }
+    public String getDado() {return Armazenar;}
 
     public static void main(int[] args) {
-    Caixa<Integer> integerBox = new Caixa<int>();
-    Caixa<String> stringBox = new Caixa<int>();
+    Reirar() = new Caixa<int>();
+    Guardar() stringBox = new Caixa<int>();
 
     System.out.printf(caixa.get());
     System.out.printf(Caixa.get());
