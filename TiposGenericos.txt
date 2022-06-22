@@ -1,0 +1,2 @@
+Tipos genéricos são parâmetros de tipos em classes, métodos e interfaces, são os tipos genéricos que fazem referência a variáveis em um escopo específico e são 
+substituídos pelo tipo especificado.
